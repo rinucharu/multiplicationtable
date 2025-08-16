@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    font-family: "Libertinus Sans", sans-serif;
+    background: linear-gradient(to left, black 50%, rgb(98, 0, 98) 50%);
+  background-attachment: fixed;
+}

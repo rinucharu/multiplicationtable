@@ -1,16 +1,16 @@
 .card{
   border-radius: 20px;
   border: none;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+  box-shadow:5px 10px 15px rgba(0, 0, 0, 0.4), -2px -5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .btn-primary{
-  background-color: rgb(98, 0, 98) !important;
+  background-color: #4C114B !important;
   color: white;
   border: none !important;
 }
 
 .title h2{
-  color: rgb(98, 0, 98);
+  color: #4C114B;
   letter-spacing: 1.4px;
 }

@@ -9,6 +9,6 @@ body{
   justify-content: center;
   align-items: center;
     font-family: "Libertinus Sans", sans-serif;
-    background: linear-gradient(to left, black 50%, rgb(98, 0, 98) 50%);
+    background: linear-gradient(to top, #EEDEF9 50%, #4C114B 50%);
   background-attachment: fixed;
 }
